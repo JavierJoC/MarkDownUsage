@@ -20,10 +20,39 @@ _***texto***_
 
 __texto__
 
->Esto es una anotación
+> Esto es una anotación
 >
 ==text==
 
+### Fundamentals of Second Language Acquisition<br>&emsp;&emsp;&emsp;&emsp;<sup>*by Stephen Krashen and Jeff McQuillan*</sup>
+
+### Fundamentals of Second Language Acquisition  
+&nbsp;&emsp;_by Stephen Krashen and Jeff McQuillan_
+
+
+### Fundameltal of second lenguage acquisition  
+&nbsp;&emsp;_by Stephen Krasen and Jeff McQuillan_
+
+#### Fundamentals of Second Language Acquisition
+&emsp;_by Stephen Krashen and Jeff McQuillan_
+
+### Fundamentals of Second Language Acquisition<br>
+&emsp;_by Stephen Krashen and Jeff McQuillan_
+
+### Fundamentals of Second Language Acquisition
+<div style="margin-top: -15px">&emsp;<em>by Stephen Krashen and Jeff McQuillan</em></div>
+
+### Fundamentals of Second Language Acquisition
+<p style="margin-top: 0; line-height: 1.2">&emsp;<em>by Stephen Krashen and Jeff McQuillan</em></p>
+
+
+### Fundamentals of Second Language Acquisition<br>&emsp;<sub>_by Stephen Krashen and Jeff McQuillan_</sub>
+
+> Fundamentals of Second Language Acquisition: A Crash Course  
+> &emsp;https://www.youtube.com/watch?v=d4RI0GWnWEs 
+>
+> Conversation About Language Acquisition  
+> * https://www.youtube.com/watch?v=p7WUxvpPIKQ
 
 <u>text</u>
 
@@ -32,8 +61,9 @@ __texto__
 > This is important.
 
 
-[!TIP]
-
+> [!TIP]
+>
+>
 [!WARNING]
 
 [!IMPORTANT]
@@ -66,7 +96,7 @@ git commit
 
 
 ------
-->Esto es una flecha
+-> Esto es una flecha
 
 
 ========================
