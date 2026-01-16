@@ -1,5 +1,12 @@
 # ExplainMe
-
+```mermaid
+sequenceDiagram  
+participant user
+```
+<br>
+<br>
+<br>
+<br>
 ~_To get a new aquisition Lenguage_~
 
 *Texto*
@@ -105,12 +112,10 @@ VERSION 3.2.0
 - Added encryption support
 - Deprecated legacy API
 
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ```mermaid
 flowchart LR
     User[User]
@@ -261,17 +266,10 @@ Edge cases and constraints.
 - Interpretation
 - Recovery actions
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # Configuration
 
 ## Configuration File Location
@@ -291,26 +289,18 @@ Explain where configuration lives.
 
 ## Example Configuration
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # Development Guide
@@ -327,27 +317,10 @@ Explain where configuration lives.
 
 ## Commit Message Convention
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # Testing
 
 ## Test Philosophy
@@ -355,30 +328,20 @@ What is tested and why.
 
 ## Running Tests
 
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Test Types
 - Unit tests
 - Integration tests
 - Regression tests
 
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # Contributing
 
 ## Code of Conduct
@@ -393,19 +356,10 @@ Expected professional behavior.
 Explain how decisions are made.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 # Changelog
